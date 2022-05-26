@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(244, 250, 191);
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+    padding: 50px;
+    background-color: rgb(190, 147, 240);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.nav>ul{
+    padding: 10px;
+    margin: 100px;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    padding: 90px;
+    background-color: cadetblue;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 25px;
+}
+
+footer{
+    text-align: center;
+    justify-content: center;
+}
+
+.nav{
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: rgb(236, 235, 128);
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 25px;
+    ho
+}
+
+button{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: aquamarine;
+}
+
+input{
+   padding: 5px;
+   border-radius: 10px;
+   background-color: rgb(232, 199, 235); 
+}
+
+.containerzinho{
+    padding: 25px;
+    background-color: rgb(159, 245, 159);
+    border-radius: 10px;
+}
+
+li a{
+    color: azure;
+    text-decoration: none;
+    padding: 1px;
+    border-radius: 2px;
+    background-color: rgb(195, 149, 238);
+}
+
+li a:hover{
+    color: rgb(219, 125, 231);
+    text-decoration: none;
+    padding: 1px;
+    border-radius: 20px;
+    background-color: blueviolet;
+}
